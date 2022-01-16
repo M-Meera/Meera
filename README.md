@@ -1,1 +1,1 @@
-# Meera
+# School database
